@@ -9,4 +9,14 @@ def q():
 ss = f"--".join(s)[::-1]
 print(s)
 print(ss)
+
+
+
+
 print('main1')
+
+
+
+
+print(q)
+
